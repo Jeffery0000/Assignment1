@@ -41,3 +41,11 @@ h3 {
 .Yellow {
     color: yellow;
 }
+h4 {
+    display: inline-block;
+    margin: 0 25em;
+}
+img {
+    display: inline-block;
+    margin: 0 15em;
+}
