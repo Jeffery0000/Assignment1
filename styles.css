@@ -3,12 +3,10 @@ body {
 }
 h1{
     text-align: center;
-    color: #000;
     font-family: 'Lucida Sans';
 }
 h2 {
     text-align: center;
-    color: #000;
     font-family: 'Lucida Sans';
 }
 img {
@@ -18,6 +16,23 @@ img {
 }
 p {
     text-align: center;
-    color: #000;
     font-family: 'Lucida Sans';
+}
+li {
+    font-family: 'Lucida Sans';
+}
+.Orange {
+    color: orange;
+}
+.Green {
+    color: green;
+}
+.Red {
+    color: red;
+}
+.Blue {
+    color: blue;
+}
+.Yellow {
+    color: yellow;
 }
