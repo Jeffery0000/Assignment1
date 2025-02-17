@@ -49,3 +49,13 @@ img {
     display: inline-block;
     margin: 0 15em;
 }
+button {
+    display: block;
+    margin: 2rem auto;
+    font-family: 'Lucida Sans';
+    font-size: large;
+    background-color: bisque;
+}
+button:hover {
+    background-color: burlywood;
+}
