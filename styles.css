@@ -59,3 +59,9 @@ button {
 button:hover {
     background-color: burlywood;
 }
+#appleText {
+    color: red;
+}
+#orangeText {
+    color: orange;
+}
