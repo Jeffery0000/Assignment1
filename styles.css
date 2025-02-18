@@ -43,11 +43,18 @@ h3 {
 }
 h4 {
     display: inline-block;
-    margin: 0 25em;
 }
 img {
     display: inline-block;
-    margin: 0 15em;
+    width: 10%;
+}
+.imgContainer {
+    display: flex;
+    justify-content: center;
+}
+.textContainer {
+    display: flex;
+    justify-content: center;
 }
 button {
     display: block;
